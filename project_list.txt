@@ -1,0 +1,28 @@
+Ch    Project Path                       Project Description
+2.9   ch2/verify.grc                     Sanity check for gnuradio install
+3.2   ch3/scanner.grc                    Captures portion of RF spectrum to file
+3.3   ch3/ook_rx_simple.grc              Simple OOK receiver
+3.3   ch3/scan_00_c313M_s8M.iq           Raw RF file containing OOK transmissions
+3.5   ch3/ook_rx_clean.grc               OOK receiver with cleaned-up design
+4.2   ch4/complex_number.grc             Viewing a simple complex number
+4.3   ch4/complex_add.grc                Viewing a complex addition
+4.3   ch4/complex_sub.grc                Viewing a complex subtraction
+4.4   ch4/complex_mult.grc               Viewing a complex multiplication
+4.5   ch4/complex_signal.grc             Viewing a complex sinusoid over time
+4.7   ch4/ook_rx_constellation.grc       Viewing the complex behavior of an OOK signal
+5.1   ch5/ook_tx.grc                     OOK transmitter
+5.2   ch5/ook_tx_rx.grc                  OOK transmitter with OOK receiver
+6.2   ch6/ook_rx_preamble.grc            OOK receiver modified to view preamble
+6.3   ch6/ook_rx_payload.grc             OOK receiver modified to save payload to file
+6.4   ch6/wave_to_data.py                Python code to extract payload from baseband 
+6.6   ch6/wave_to_data_manch.py          Python code to extract Manchester-encoded data
+7.3   ch7/fsk_tx_rx.grc                  FSK transmitter with FSK receiver
+8.2   ch8/psk_tx_rx.grc                  Simple PSK transmitter with PSK receiver
+8.3   ch8/psk_tx_rx_channel.grc          PSK transmit/receive with channel model
+8.4   ch8/dpsk_tx_rx_channel.grc         Differential PSK transmit/receive
+8.5   ch8/dpsk_tx_rx_optimized.grc       DPSK transmit/receive with improved design
+8.6   ch8/qpsk_tx_rx_optimized.grc       QPSK transmit/receive with improved design
+9.2   ch9/ook_tx_rx_visual.grc           Visualization of OOK signal
+9.3   ch9/fsk_tx_rx_visual.grc           Visualization of FSK signal
+9.4   ch9/qpsk_tx_rx_visual.grc          Visualization of QPKS signal
+
