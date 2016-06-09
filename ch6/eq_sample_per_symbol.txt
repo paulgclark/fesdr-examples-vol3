@@ -1,0 +1,1 @@
+N_{symbol} = \frac{\frac{0.25ms}{symbol}}{\frac{0.0025ms}{sample}}=100\frac{samples}{symbol}
